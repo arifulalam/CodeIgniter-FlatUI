@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "Sayuri Information Portal"
+        echo "Sayuri Information Portal";
         ?>
     </body>
 </html>
