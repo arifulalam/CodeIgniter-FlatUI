@@ -13,6 +13,8 @@ and open the template in the editor.
         <?php
         echo "Sayuri Information Portal";
         echo "<br> Group";
+        echo "<br> Group";
+        
         ?>
     </body>
 </html>
