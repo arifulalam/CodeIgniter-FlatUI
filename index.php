@@ -16,7 +16,7 @@ and open the template in the editor.
     <body>
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12">
-                <h1 class="h1">Welcome to Sayuri!<br><small>Sayuri Information Portal</small></h1>
+                <h1 class="h1">Welcome to Sayuri!<br><small>Sayuri Information Portal</small></h1> 
             </div>
         </div>
         <?php
