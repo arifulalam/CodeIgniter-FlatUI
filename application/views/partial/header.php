@@ -7,12 +7,12 @@
 
     <!-- Loading Bootstrap -->
     
-    <link href="<?php base_url('assests/bootstrap/css/bootstrap.css'); ?>" rel="stylesheet">
+    <link href="<?php echo base_url('assests/bootstrap/css/bootstrap.css'); ?>" rel="stylesheet">
 
     <!-- Loading Flat UI -->
-    <link href="<?php base_url('assests/css/flat-ui.css');?>" rel="stylesheet">
+    <link href="<?php echo base_url('assests/css/flat-ui.css');?>" rel="stylesheet">
 
-    <link rel="shortcut icon" href="<?php base_url('assests/images/favicon.ico'); ?>">
+    <link rel="shortcut icon" href="<?php echo base_url('assests/images/favicon.ico'); ?>">
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
     <!--[if lt IE 9]>
