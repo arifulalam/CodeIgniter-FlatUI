@@ -12,7 +12,8 @@ Bundles the following packages together. <br>
 <h2>Usage</h2>
 <ol>
 <li>Download the package</li>
-<li>Configure the CodeIgniter framework</li>
+<li>Configure the CodeIgniter framework
+<ul><li>Add 'url' as an autoload helper <code>(application/config/autoload.php)</code></li></ul></li>
 <li>Always include the header.php <code>(application/view/partial/header.php)</code> at the beginig of each view file and <br>
 Always include the footer.php <code>(application/view/partial/footer.php)</code> at the end of each view file</li>
 </ol>
